@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "color": "^5.0.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongodb": "4.14",
+    "sqlite3": "^5.1.7"
+  }
+}

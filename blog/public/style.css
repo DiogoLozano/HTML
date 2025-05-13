@@ -1,0 +1,23 @@
+.post {
+  background-color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: left;
+  width: 80%;
+}
+
+.post h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.post h4 {
+  color: #666;
+  font-weight: normal;
+}
+
+.posts hr {
+  margin-top: 20px;
+}

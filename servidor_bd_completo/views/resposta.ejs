@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Status</title>
+</head>
+<body>
+  <% if (sucesso) { %>
+    <h2>Sucesso!</h2>
+    <p>Olá, <%= username %>! Sua operação foi concluída.</p>
+  <% } else { %>
+    <h2>Erro!</h2>
+    <p>Usuário ou senha inválidos. Tente novamente.</p>
+  <% } %>
+  <a href="/">Voltar para Projetos</a>
+</body>
+</html>
